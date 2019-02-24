@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://diaconat.netlify.com/* https://diaconat.omic.ch/:splat 301!

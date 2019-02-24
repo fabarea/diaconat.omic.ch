@@ -5,7 +5,6 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const ProductPageTemplate = ({
   image,
@@ -26,13 +25,7 @@ export const ProductPageTemplate = ({
             <div className="content">
               <div
                 className="full-width-image-container margin-top-0"
-                style={{
-                  backgroundImage: `url(${
-                    !!image.childImageSharp
-                      ? image.childImageSharp.fluid.src
-                      : image
-                  })`,
-                }}
+                style={{ backgroundImage: `url(${image})` }}
               >
                 <h2
                   className="has-text-weight-bold is-size-1"
@@ -68,18 +61,30 @@ export const ProductPageTemplate = ({
                   <div className="tile">
                     <div className="tile is-parent is-vertical">
                       <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image1} />
+                        <img
+                          style={{ borderRadius: '5px' }}
+                          src={main.image1.image}
+                          alt={main.image1.alt}
+                        />
                       </article>
                     </div>
                     <div className="tile is-parent">
                       <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image2} />
+                        <img
+                          style={{ borderRadius: '5px' }}
+                          src={main.image2.image}
+                          alt={main.image2.alt}
+                        />
                       </article>
                     </div>
                   </div>
                   <div className="tile is-parent">
                     <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image3} />
+                      <img
+                        style={{ borderRadius: '5px' }}
+                        src={main.image3.image}
+                        alt={main.image3.alt}
+                      />
                     </article>
                   </div>
                 </div>
@@ -87,13 +92,7 @@ export const ProductPageTemplate = ({
               <Testimonials testimonials={testimonials} />
               <div
                 className="full-width-image-container"
-                style={{
-                  backgroundImage: `url(${
-                    fullImage.childImageSharp
-                      ? fullImage.childImageSharp.fluid.src
-                      : fullImage
-                  })`,
-                }}
+                style={{ backgroundImage: `url(${fullImage})` }}
               />
               <h2 className="has-text-weight-semibold is-size-2">
                 {pricing.heading}
@@ -109,7 +108,7 @@ export const ProductPageTemplate = ({
 )
 
 ProductPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  image: PropTypes.string,
   title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
@@ -119,12 +118,12 @@ ProductPageTemplate.propTypes = {
   main: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
-    image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+    image1: PropTypes.object,
+    image2: PropTypes.object,
+    image3: PropTypes.object,
   }),
   testimonials: PropTypes.array,
-  fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  fullImage: PropTypes.string,
   pricing: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
@@ -167,24 +166,12 @@ export const productPageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        image
         heading
         description
         intro {
           blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            image
             text
           }
           heading
@@ -195,46 +182,22 @@ export const productPageQuery = graphql`
           description
           image1 {
             alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            image
           }
           image2 {
             alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            image
           }
           image3 {
             alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 1075, quality: 72) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            image
           }
         }
         testimonials {
           author
           quote
         }
-        full_image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        full_image
         pricing {
           heading
           description
