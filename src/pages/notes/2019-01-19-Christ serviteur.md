@@ -249,10 +249,6 @@ Actuellement : Fabien 2e cas mais c'est perméable, 
 
 Plus tard : rester souple pour se laisser porter par l'Esprit
 
-0788218081 Philippe
-
-0786812640 Adriana
-
 "les normes" Normes fondamentales pour la formation des diacres
 
 directoire pour la vie des diacres permanents. Document magistériel. Le petit
