@@ -30,7 +30,7 @@ prendre un temps de 10 min en solitude pour se mettre en présence du texte :
 
 partage :
 
-Olivier
+Ol.
 
 *   prendre en coeur à coeur
 *   sans avoir toutes la cartes en main, nous sommes invités à faire qqch
@@ -38,12 +38,12 @@ Olivier
 *   Invitation à suivre, à voir les signes, à écouter
 *   par après, les prophètes sont partis mais Jésus est là, il reste
 
-César
+Cés.
 
 *   même si on est à l'écoute, on ne comprend parfois pas
 *   rester confiant et attentif car Jésus conduit au père
 
-Fabien
+Fb.
 
 *   haute montagne : hauteur du mystère
 *   prendre à l'écart, trouver Dieu dans une intériorité, AT : on trouve Dieu dans une brise légère
@@ -58,7 +58,7 @@ Fabien
 *   la parole est donnée mais nous avons besoin du sensible
 *   y a-t-il un lien avec le baptême de Jésus avec la voix qui vient du ciel : vie après la vie
 
-Philippe
+Phil.
 
 *   le christ sauveur qui prend notre humanité
 *   le christ choisit les gens
@@ -73,29 +73,29 @@ Philippe
 *   Dieu sait à qui il donne toi
 *   autre facette du baptême, Dieu vient dans la mort pour redonner la vie
 
-Sylvie
+Syl.
 
 *   qu'est-ce que ça peut me dire aujourd'hui : se mettre à l'écart, se mettre à l'écoute / n'oublions pas que c'est dans la prière et l'écoute de la parole
 *   dans l'attitude de Pierre : notre humanité : chercher le concret
 *   ils ne comprennent pas encore, tout ce qu'ils ne comprennent pas sur le moment, ils peuvent le comprendre après coup
 *   le chemin de la vie nous permet de consolider et d'avoir le temps d'avancer
 
-Sandrine
+Sand.
 
 *   ce qui me rejoint : "celui-ci est mon fils bien aimé, écoutez-le" / On croit savoir écouter mais ce n'est pas toujours le cas. A quoi m'appelle-t-il?
 
-Adriana
+Adr.
 
 *   regard entre la symbolique et la vérité
 *   ce qui me touche : la foi que l'on a pour suivre les consignes même si on ne comprend pas, faire confiance "celui-ci est mon fils bien aimé, écoutez-le"
 *   "celui-ci est mon fils bien aimé, écoutez-le" on ne sait pas toujours le faire, nous restons sourds, obéir avec confiance
 
-Virginie
+Vir.
 
 *   Prendre avec comme un enfants et qui ns montrent ce qu'on voit pas. Viens avec moi, c'est agréable, cela donne de l'importance.
 *   Ils restèrent attachés à une parole: != moi-même, questionnement
 
-Philippe Hugo
+Phil. Hugo
 
 *   ça rejoint le thème d'aujourd'hui : se mettre à l'écoute, se mettre à la suite du Christ à travers sa parole
 *   pour se mettre à l'écoute du Verbe, il faut la présence d'Elie et Moïse (qui représente toute l'Ecriture = Le Pentateuque est chez les chrétiens l'ensemble des cinq premiers livres de la Bible) (comment les ont-ils reconnu? certainement à travers des représentations, signes disctinctifs)
@@ -118,7 +118,7 @@ Philippe Hugo
 *   disposition d'écoute de la parole, laisser une place à l'Esprit Saint et aussi des autres
 
 *   quelle place à l'écriture dans nos vies
-    \--> brainstorming, intelligence collective (Fabien) : fait référence à notre humanité, c'est opérant au niveau de l'Ecriture et au niveau écclésiale mais aussi, Dieu parle à travers ce qu'on se dit. Dieu a dit une chose, 2 choses j'ai entendues... (psaume)penser,entendre,réexprimer --> quand on lit l'Ecriture en Eglise,il y un enrichissement dans la compréhension et dans la Parole. Parole multiple. Parole vivante et féconde.
+    \--> brainstorming, intelligence collective (Fb.) : fait référence à notre humanité, c'est opérant au niveau de l'Ecriture et au niveau écclésiale mais aussi, Dieu parle à travers ce qu'on se dit. Dieu a dit une chose, 2 choses j'ai entendues... (psaume)penser,entendre,réexprimer --> quand on lit l'Ecriture en Eglise,il y un enrichissement dans la compréhension et dans la Parole. Parole multiple. Parole vivante et féconde.
 
 *   ce qui n'est assumé, n'est pas sauvé. La pédagogie de Dieu est de rentrer dans l'humain, sa parole devient homme. Mv de Philippien 2.
     Si Dieu n'était pas devenu homme, il n'aurait pas sauvé l'humanité. Les père de l'Eglise, Dieu qui ns a créé sans nous, ne nous sauvera pas sans nous.
@@ -136,7 +136,7 @@ Philippe Hugo
 
 *   année prochaine = année plutôt biblique : on verra alors ce que veut dire que Dieu parle
 *   dei verbum : l'Ecriture a deux natures comme le Christ - Dieu et l'homme sont inséparables. Dieu est l'auteur mais il parle à travers les hommes auteurs eux-mêmes. L'Ecriture a donc deux natures : humaine et divine
-*   expérience de Philippe, découvert psaume colonie, psaume = parole d'homme, mots humains adressés à Dieu, sommet = Dieu qui donne aux hommes les mots pour s'adresser à lui. Parole d'homme qui guérit. Lire la parole de Dieu est toujours un acte écclésial. La parole de Dieu a besoin de temps et de répétition, "ruminer" /  Philippe a été moine durant 10 ans : lectio divina : un homme passait sa lectio à recopier la bible. Tous les moyens sont bons pour l'appropriation. Autre exemple : un ermite parlait des psaumes : psychologie, psychanalyse, etc... Ne pas oublier la psalmothérapie. A travers les psaumes, on peut guérir :-)
+*   expérience de Phil., découvert psaume colonie, psaume = parole d'homme, mots humains adressés à Dieu, sommet = Dieu qui donne aux hommes les mots pour s'adresser à lui. Parole d'homme qui guérit. Lire la parole de Dieu est toujours un acte écclésial. La parole de Dieu a besoin de temps et de répétition, "ruminer" /  Phil. a été moine durant 10 ans : lectio divina : un homme passait sa lectio à recopier la bible. Tous les moyens sont bons pour l'appropriation. Autre exemple : un ermite parlait des psaumes : psychologie, psychanalyse, etc... Ne pas oublier la psalmothérapie. A travers les psaumes, on peut guérir :-)
 *   les paroles des psaumes sont adressées à Dieu. On peut tout dire à Dieu (pas sur Dieu = blasphème). La relecture de l'histoire et la mise en forme symbolique dépasse la question du vrai ou du faux historique. Historiquement, ce n'est probablement pas David qui a écrit (tous) les psaumes mais par contre on peut lui attribuer en tant que porte-voix d'autres.
 
 2 livres : Enzo Bianchi, communauté de Boze : prier la parole, une introduction à la lection divina  et Ecouter la parole

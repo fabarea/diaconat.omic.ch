@@ -76,7 +76,7 @@ Dans la bible :
 diakonei : servir
 diakona : le service
 diakonos : le serviteur (29 fois)
-\-> 100 fois en tout si on additionne
+- 100 fois en tout si on additionne
 
 *   service des anges
 *   service Marie et de Marthe
