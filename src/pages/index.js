@@ -14,7 +14,7 @@ export default class IndexPage extends React.Component {
           <div className="container">
             <div className="content">
               <h1 className="has-text-weight-bold is-size-5">
-                Notes
+                Parcours de discernement au diaconat
               </h1>
               <span className="muted">Nos prises de notes au long du parcours de formation au diaconat permanent.</span>
             </div>

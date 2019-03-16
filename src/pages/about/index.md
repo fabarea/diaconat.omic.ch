@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About
+title: A propos
 ---
 
 Recueil de notes maintenu par Fabien et Virginie Udriot

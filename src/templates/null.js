@@ -26,7 +26,7 @@ export const NoteTemplate = ({
         <div className="columns">
           <div className="column is-1" >
             <Link className="button is-small" to="/" style={{float: 'right', position: 'relative', top: '0.7em'}}>
-              Back
+              Retour
             </Link>
           </div>
           <div className="column is-10">

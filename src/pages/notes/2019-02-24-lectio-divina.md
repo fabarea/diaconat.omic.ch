@@ -3,7 +3,7 @@ date: 2019-02-25T08:41:41.000Z
 public: true
 tags:
   - lectio-divina
-title: lectio-divina
+title: Lectio Divina
 ---
 
 Philippe Hugo 23 février
